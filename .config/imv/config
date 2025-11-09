@@ -1,0 +1,7 @@
+
+[binds]
+n = prev
+m = next
+
+<Shift+H> = rotate by -90
+<Shift+L> = rotate by 90
