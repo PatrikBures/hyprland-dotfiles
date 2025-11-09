@@ -1,0 +1,9 @@
+set guioptions ''
+
+set page-padding 0
+
+map i toggle_statusbar
+
+map n feedkeys <PageUp>
+map m feedkeys <PageDown>
+
